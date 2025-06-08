@@ -15,8 +15,8 @@ A web-based version of the classic Simon Says memory game, built using HTML, CSS
 * Fully responsive design
 
 # Technologies Used
-HTML – structure
-CSS – styling and animations
-JavaScript – game logic and interactivity.
+* HTML – structure
+* CSS – styling and animations
+* JavaScript – game logic and interactivity.
 
 Feel free to fork this project or suggest improvements via pull requests!
